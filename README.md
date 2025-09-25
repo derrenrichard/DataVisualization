@@ -23,8 +23,6 @@ Studi kasus pertama adalah analisis dataset publik mengenai penyebaran Virus Cor
 Dataset yang digunakan adalah **"Novel Corona Virus 2019 Dataset"** yang bersumber dari Kaggle.
 - **Link Dataset:** [Corona Virus Report](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 
-*(Visualisasi untuk analisis ini tidak dipublikasikan dalam bentuk dashboard interaktif).*
-
 ---
 
 ## Bagian 2: Analisis Data Karyawan (HR Analytics)
@@ -45,11 +43,10 @@ Dashboard interaktif untuk analisis data karyawan telah dipublikasikan dan dapat
 * **Unit Bisnis Terbesar:** Unit bisnis "SVG" merupakan yang terbesar dari segi jumlah personel, diikuti oleh "NEL" dan "PL".
 * **Distribusi Training:** Durasi training karyawan cukup beragam dan tersebar merata tanpa ada durasi tertentu yang mendominasi.
 
-### Pratinjau Dashboard
+### Dashboard
 
-![Pratinjau Dashboard Analisis Karyawan](4E21CF7A-7B62-4C99-B7B0-7271B9BF84B1.png)
+<img width="577" height="640" alt="Image" src="https://github.com/user-attachments/assets/e07b8070-06d5-400a-afe8-565e5f3ebec8" />
 
-**(PENTING: Agar gambar ini tampil, unggah file screenshot Anda ke repositori GitHub/GitLab Anda dengan nama file yang sama persis: `4E21CF7A-7B62-4C99-B7B0-7271B9BF84B1.png` dan pastikan berada di folder yang sama dengan file README ini)**
 
 ---
 
@@ -58,5 +55,3 @@ Dashboard interaktif untuk analisis data karyawan telah dipublikasikan dan dapat
 Untuk penjelasan lebih detail mengenai proses analisis kedua studi kasus dan hasil visualisasinya, silakan tonton video berikut:
 
 - **Link Video:** **[Tonton Video Penjelasan di Sini](LINK_VIDEO_ANDA)**
-
-**(Catatan: Ganti tulisan `LINK_VIDEO_ANDA` dengan link URL video penjelasan Anda yang sebenarnya.)**
