@@ -1,54 +1,62 @@
-# Visualisasi Data COVID-19 Menggunakan Tableau
+# Proyek Analisis dan Visualisasi Data dengan Tableau
 
-Proyek ini bertujuan untuk menganalisis dan memvisualisasikan data penyebaran Virus Corona (COVID-19) global. Dataset yang digunakan bersumber dari Kaggle dan diolah menjadi sebuah dashboard interaktif menggunakan Tableau untuk menyajikan informasi kunci secara efektif.
+Proyek ini merupakan kumpulan analisis data dari dua studi kasus yang berbeda, yang divisualisasikan menggunakan Tableau. Tujuannya adalah untuk menunjukkan kemampuan dalam mengolah dan menyajikan data menjadi insight yang mudah dipahami.
+
+Studi kasus yang dibahas adalah:
+1.  **Analisis Data Internal Karyawan (HR Analytics)**
+2.  **Analisis Penyebaran Global COVID-19**
 
 ---
 
-## 1. Sumber Data (Dataset)
+## Tools yang Digunakan
 
-Dataset yang digunakan dalam proyek ini adalah **"Novel Corona Virus 2019 Dataset"** yang tersedia di platform Kaggle. Dataset ini berisi data harian mengenai kasus terkonfirmasi, kematian, dan kesembuhan di berbagai negara.
+- **Kaggle:** Sebagai sumber dataset.
+- **Tableau:** Digunakan untuk proses pembuatan visualisasi data dan dashboard interaktif untuk kedua studi kasus.
 
-- **Platform:** Kaggle
+---
+
+## Bagian 1: Analisis Data Karyawan (HR Analytics)
+
+Analisis utama dalam proyek ini berfokus pada data sumber daya manusia (SDM) untuk mendapatkan insight mengenai demografi, distribusi, dan metrik karyawan lainnya.
+
+### Sumber Data
+Dataset yang digunakan adalah **"Employee Dataset"** yang bersumber dari Kaggle.
+- **Link Dataset:** [Employee Dataset di Kaggle](https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset)
+
+### Hasil Visualisasi (Dashboard Karyawan)
+Dashboard interaktif ini menampilkan beberapa metrik kunci mengenai komposisi karyawan di perusahaan.
+
+**Insight Utama dari Dashboard:**
+* **Komposisi Gender:** Terdapat lebih banyak karyawan perempuan dibandingkan laki-laki di semua status kepegawaian (Contract, Full-Time, Part-Time).
+* **Unit Bisnis Terbesar:** Unit bisnis "SVG" merupakan yang terbesar dari segi jumlah personel, diikuti oleh "NEL" dan "PL".
+* **Distribusi Training:** Durasi training karyawan cukup beragam dan tersebar merata tanpa ada durasi tertentu yang mendominasi.
+
+### Pratinjau Dashboard
+
+![Pratinjau Dashboard Analisis Karyawan](4E21CF7A-7B62-4C99-B7B0-7271B9BF84B1.png)
+
+**(PENTING: Agar gambar ini tampil, unggah file screenshot Anda ke repositori GitHub/GitLab Anda dengan nama file yang sama persis: `4E21CF7A-7B62-4C99-B7B0-7271B9BF84B1.png` dan pastikan berada di folder yang sama dengan file README ini)**
+
+---
+
+## Bagian 2: Analisis Penyebaran Global COVID-19
+
+Studi kasus kedua adalah analisis dataset publik mengenai penyebaran Virus Corona (COVID-19) untuk melacak dan memvisualisasikan dampaknya secara global.
+
+### Sumber Data (Dataset)
+Dataset yang digunakan adalah **"Novel Corona Virus 2019 Dataset"** yang bersumber dari Kaggle.
 - **Link Dataset:** [Corona Virus Report](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 
----
-
-## 2. Tools yang Digunakan
-
-- **Kaggle:** Digunakan sebagai sumber utama untuk mendapatkan dataset.
-- **Tableau:** Digunakan untuk proses pembuatan visualisasi data dan dashboard interaktif.
+### Hasil Visualisasi (Dashboard COVID-19)
+Dashboard interaktif untuk analisis ini dapat diakses melalui link Tableau Public berikut.
+- **Link Dashboard:** [Lihat Dashboard Interaktif COVID-19](https://public.tableau.com/views/soal2_17508547900530/Jawabanno_7?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
-## 3. Proses Pengerjaan
+## Video Penjelasan Proyek
 
-Alur kerja proyek ini adalah sebagai berikut:
-1.  **Pengambilan Data:** Dataset mentah diunduh dari link Kaggle yang telah disediakan.
-2.  **Koneksi Data ke Tableau:** Data yang telah diunduh dihubungkan ke aplikasi Tableau Desktop.
-3.  **Pembuatan Visualisasi:** Berbagai grafik, peta, dan tabel dibuat di dalam Tableau untuk menganalisis berbagai metrik, seperti:
-    - Total kasus terkonfirmasi, kematian, dan kesembuhan secara global.
-    - Tren kasus dari waktu ke waktu.
-    - Perbandingan jumlah kasus antar negara.
-4.  **Publikasi Dashboard:** Worksheet visualisasi yang telah dibuat digabungkan menjadi sebuah dashboard interaktif dan dipublikasikan ke Tableau Public.
-
----
-
-## 4. Hasil Visualisasi (Dashboard Tableau)
-
-Dashboard interaktif hasil dari analisis ini telah dipublikasikan dan dapat diakses oleh publik melalui Tableau Public. Anda dapat berinteraksi dengan visualisasi, menggunakan filter, dan melihat detail data dengan mengklik elemen pada dashboard.
-
-- **Link Dashboard:** **[Lihat Dashboard Interaktif COVID-19 di Tableau Public](https://public.tableau.com/views/soal2_17508547900530/Jawabanno_7?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-
-*(Disarankan untuk menambahkan screenshot atau gambar pratinjau dashboard Anda di sini)*
-
-![Preview Dashboard](https://link-gambar-screenshot-dashboard-anda.com/image.png)
-
----
-
-## 5. Video Penjelasan
-
-Untuk pemahaman yang lebih mendalam mengenai langkah-langkah pengerjaan, analisis data, dan cara membaca dashboard, silakan tonton video penjelasan di bawah ini.
+Untuk penjelasan lebih detail mengenai proses analisis kedua studi kasus dan hasil visualisasinya, silakan tonton video berikut:
 
 - **Link Video:** **[Tonton Video Penjelasan di Sini](LINK_VIDEO_ANDA)**
 
-**(PENTING: Ganti tulisan `LINK_VIDEO_ANDA` dengan link URL video penjelasan Anda yang sebenarnya.)**
+**(Catatan: Ganti tulisan `LINK_VIDEO_ANDA` dengan link URL video penjelasan Anda yang sebenarnya.)**
