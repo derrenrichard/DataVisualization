@@ -3,8 +3,7 @@
 Proyek ini merupakan kumpulan analisis data dari dua studi kasus yang berbeda, yang divisualisasikan menggunakan Tableau. Tujuannya adalah untuk menunjukkan kemampuan dalam mengolah dan menyajikan data menjadi insight yang mudah dipahami.
 
 Studi kasus yang dibahas adalah:
-1.  **Analisis Penyebaran Global COVID-19**
-2.  **Analisis Data Internal Karyawan (HR Analytics)**
+ **Analisis Data Internal Karyawan (HR Analytics)**
 
 ---
 
