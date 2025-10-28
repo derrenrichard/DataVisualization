@@ -44,7 +44,7 @@ Dashboard interaktif untuk analisis data karyawan telah dipublikasikan dan dapat
 
 ### Dashboard
 
-<img width="577" height="640" alt="Image" src="https://github.com/user-attachments/assets/e07b8070-06d5-400a-afe8-565e5f3ebec8" />
+<img width="650" height="865" alt="Image" src="https://github.com/user-attachments/assets/8c2ca6dd-70ea-4da1-a91a-ebd46fe43269" />
 
 
 ---
